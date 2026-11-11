@@ -1,0 +1,7 @@
+# Traefik local plugin sandbox and logs
+plugins-local/
+*.log
+
+# IDE
+.idea/
+.vscode/
